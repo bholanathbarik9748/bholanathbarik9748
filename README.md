@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bholanath Barik</h1>
-<h3 align="center">"TALK IS CHEAP SHOW ME THE CODE" Hey Viewers, This is Bholanath Barik I am a WEB/APP/ML Developer. And highly experienced in user experience apps. "Get more done and see the creativity at work" CONTACT FOR Freelancing</h3>
+<h3 align="center">"TALK IS CHEAP SHOW ME THE CODE" Hey Viewers, This is Bholanath Barik I am a WEB/APP/ML Developer. And highly experienced in user experience apps. "Get more done and see the creativity at work"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bholanathbarik9748&label=Profile%20views&color=0e75b6&style=flat" alt="bholanathbarik9748" /> </p>
+<img src="https://p4.wallpaperbetter.com/wallpaper/811/106/478/triple-screen-simple-background-geek-computer-wallpaper-preview.jpg" alt="bholanathbarik9748" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bholanathbarik9748" alt="bholanathbarik9748" /></a> </p>
 
