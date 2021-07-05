@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://tat-it-official.herokuapp.com/blog/](https://tat-it-official.herokuapp.com/blog/)
 
-- 💬 Ask me about **WEB/APP/ML Developer and competitive programming**
+- 💬 Ask me about **WEB/APP/ML development and competitive programming**
 
 - 📫 How to reach me **bholanathbarik9748@gmail.com**
 
