@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@bholanathbari18" target="blank"><img src="https://img.shields.io/twitter/follow/@bholanathbari18?logo=twitter&style=for-the-badge" alt="@bholanathbari18" /></a> </p>
 
-- 🌱 I’m currently learning **React,Angular**
+- 🌱 I’m currently learning **TensorFlow**
 
 - 👨‍💻 All of my projects are available at [https://bholanath-barik-portfolio.netlify.app/](https://bholanath-barik-portfolio.netlify.app/)
 
