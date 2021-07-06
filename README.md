@@ -39,12 +39,12 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=bholanathbarik9748&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=bholanathbarik9748&show_icons=true&include_all_commits=true&theme=dracula" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bholanathbarik9748&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bholanathbarik9748&layout=compact&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bholanathbarik9748&layout=compact&theme=material-palenight" alt="bholanathbarik9748" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bholanathbarik9748&layout=compact&theme=dracula" alt="bholanathbarik9748" /></p>
 </a>
