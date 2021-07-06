@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bholanathbarik9748&label=Profile%20views&color=0e75b6&style=flat" alt="bholanathbarik9748" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bholanathbarik9748" alt="bholanathbarik9748" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@bholanathbari18" target="blank"><img src="https://img.shields.io/twitter/follow/@bholanathbari18?logo=twitter&style=for-the-badge" alt="@bholanathbari18" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@bholanathbari18" target="blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FBholanathBari18" alt="@bholanathbari18" /></a> </p>
 
 - 🌱 I’m currently learning **TensorFlow**
 
@@ -43,4 +43,6 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bholanathbarik9748&layout=compact&theme=material-palenight" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bholanathbarik9748&layout=compact&theme=material-palenight" alt="bholanathbarik9748" /></p>
+</a>
