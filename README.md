@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bholanath Barik</h1>
-<h1 align="center">0 != day()</h1>
+<h3 align="center">Talk is cheap show me the code 🤞 0 != day()</h3>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
