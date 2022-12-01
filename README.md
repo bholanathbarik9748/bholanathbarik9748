@@ -30,10 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
 </div>
 
-
-###
-<p align="left"> <a href="https://twitter.com/@bholanathbari18" target="blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FBholanathBari18" alt="@bholanathbari18" /></a> </p>
-
 - 🌱 I’m currently learning **TensorFlow**
 
 - 👨‍💻 All of my projects are available at [https://bholanath-barik-portfolio.netlify.app/](https://bholanath-barik-portfolio.netlify.app/)
@@ -46,5 +42,3 @@
 
 - ⚡ Fun fact **I spend almost 12 hours listening to songs every day.**
 
-
-<img src="https://raw.githubusercontent.com/bholanathbarik9748/bholanathbarik9748/blob/output/snake.svg" alt="Snake animation" />
