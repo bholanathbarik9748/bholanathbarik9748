@@ -1,5 +1,8 @@
+<div align="center">
+  <img height="200" src="https://media-exp1.licdn.com/dms/image/C4D16AQEj4xrCN-6ILw/profile-displaybackgroundimage-shrink_350_1400/0/1659617806585?e=1675296000&v=beta&t=KIea3KcWP2AadwbQPsaU2kkNIb4whia98pZocDXvjaM"  />
+</div>
 <h1 align="center">Hi 👋, I'm Bholanath Barik</h1>
-<h3 align="center">Talk is cheap show me the code 🤞 0 != day()</h3>
+<h3 align="center">0 != day()</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=bholanathbarik9748" height="150" alt="stats graph"  />
