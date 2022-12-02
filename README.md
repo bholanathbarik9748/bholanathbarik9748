@@ -36,9 +36,9 @@
 
 - 📝 I regularly write articles on [https://tat-it-official.herokuapp.com/blog/](https://tat-it-official.herokuapp.com/blog/)
 
-- 💬 Ask me about **WEB/APP/ML Development and competitive programming**
-
 - 📫 How to reach me **bholanathbarik9748@gmail.com**
+
+- 💬 Ask me about **WEB/APP/ML Development and competitive programming**
 
 - ⚡ Fun fact **I spend almost 12 hours listening to songs every day.**
 
