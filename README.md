@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media-exp1.licdn.com/dms/image/C4D16AQEj4xrCN-6ILw/profile-displaybackgroundimage-shrink_350_1400/0/1659617806585?e=1675296000&v=beta&t=KIea3KcWP2AadwbQPsaU2kkNIb4whia98pZocDXvjaM"  />
+  <img height="230" width="1300" src="https://images.wallpapersden.com/image/download/programming-coding-language_bGhpbm6UmZqaraWkpJRnZWltrWZmamc.jpg"  />
 </div>
 <h1 align="center">Hi 👋, I'm Bholanath Barik</h1>
 <h3 align="center">0 != day()</h3>
