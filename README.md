@@ -21,9 +21,7 @@
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 👨‍💻 All of my projects are available at [https://bholanath-barik-portfolio.netlify.app/](https://bholanath-barik-portfolio.netlify.app/)
-
-- 📝 I regularly write articles on [https://tat-it-official.herokuapp.com/blog/](https://tat-it-official.herokuapp.com/blog/)
+- 👨‍💻 I currently work as a Software Development Engineer (SDE) 1 at [MyCLNQ](https://play.google.com/store/apps/details?id=com.ssivixlab.MYCLNQ&hl=en&gl=US)
 
 - 📫 How to reach me **bholanathbarik9748@gmail.com**
 
