@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Bholanath Barik</h1>
 <h3 align="center">0 != day()</h3>
 
-<img align="right" height="173" src="https://static.wixstatic.com/media/fcf9f1_183add7b26954250a69bc0ac13f8ca50~mv2.gif/v1/fill/w_1600,h_900,al_c,q_90/file.jpg"  />
+<img align="right" height="160" src="https://static.wixstatic.com/media/fcf9f1_183add7b26954250a69bc0ac13f8ca50~mv2.gif/v1/fill/w_1600,h_900,al_c,q_90/file.jpg"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
