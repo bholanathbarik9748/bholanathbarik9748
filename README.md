@@ -3,13 +3,6 @@
 </div>
 <h1 align="center">Hi 👋, I'm Bholanath Barik</h1>
 <h3 align="center">0 != day()</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=bholanathbarik9748" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=bholanathbarik9748" height="150" alt="languages graph"  />
-</div>
-
-
 ###
 
 <img align="right" height="173" src="https://static.wixstatic.com/media/fcf9f1_183add7b26954250a69bc0ac13f8ca50~mv2.gif/v1/fill/w_1600,h_900,al_c,q_90/file.jpg"  />
