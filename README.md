@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" width="42" alt="bitbucket logo"  />
 </div>
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 I currently work as a Software Development Engineer (SDE) 1 at [MyCLNQ](https://play.google.com/store/apps/details?id=com.ssivixlab.MYCLNQ&hl=en&gl=US)
 
