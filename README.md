@@ -1,7 +1,7 @@
 <div align="center">
   <img height="230" width="1300" src="https://images.wallpapersden.com/image/download/programming-coding-language_bGhpbm6UmZqaraWkpJRnZWltrWZmamc.jpg"  />
 </div>
-<h1 align="center">Hi 👋, I'm Bholanath Barik</h1>
+<h1 align="center">Hi 👋, I'm Bholanath</h1>
 <h3 align="center">0 != day()</h3>
 
 <img align="right" height="160" src="https://static.wixstatic.com/media/fcf9f1_183add7b26954250a69bc0ac13f8ca50~mv2.gif/v1/fill/w_1600,h_900,al_c,q_90/file.jpg"  />
