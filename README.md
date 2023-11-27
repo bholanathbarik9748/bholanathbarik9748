@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **bholanathbarik9748@gmail.com**
 
-- 💬 Ask me about **WEB/APP/ML Development and competitive programming**
+- 💬 Ask me about **WEB && APP Development and competitive programming**
 
 - ⚡ Fun fact **I spend almost 12 hours listening to songs every day.**
 
