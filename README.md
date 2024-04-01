@@ -22,8 +22,6 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 I currently work as a Software Development Engineer (SDE) 1 at [MyCLNQ](https://play.google.com/store/apps/details?id=com.ssivixlab.MYCLNQ&hl=en&gl=US)
-
 - 📫 How to reach me **bholanathbarik9748@gmail.com**
 
 - 💬 Ask me about **WEB && APP Development and competitive programming**
