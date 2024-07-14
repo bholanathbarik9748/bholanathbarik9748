@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="230" width="1300" src="https://media.licdn.com/dms/image/C4D16AQEj4xrCN-6ILw/profile-displaybackgroundimage-shrink_350_1400/0/1659617807630?e=1720656000&v=beta&t=1zuRQe-Z4Hk754R_glT1Ysdzk6z6mH5tPi17B4zCSf4"  />
+  <img height="230" width="1300" src="https://github.com/user-attachments/assets/9dfc999c-a58c-4517-beab-d1c0342dcce4"  />
 </div>
 <h1 align="center">Hi 👋, I'm Bholanath</h1>
 <h3 align="center">0 != day()</h3>
